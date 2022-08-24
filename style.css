@@ -1,0 +1,20 @@
+*{
+    background-color: #EEB5EB;
+    color: #C8F4F9;
+    font-weight: bold;
+    font-family: "Trebuchet MS" , Tahoma, sans-serif;
+}
+
+h1{
+    color: #C26DBC;
+}
+
+h2{
+    color: #3CACAE;
+}
+
+
+img{
+    width: 300px;
+    height: auto;
+}
